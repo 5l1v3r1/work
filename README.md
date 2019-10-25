@@ -4,7 +4,7 @@
 
 
 ## phpstudy下载
-http://public.xp.cn/upgrades/PhpStudy2018
+http://public.xp.cn/upgrades/PhpStudy2018.zip
 
 ## 打开mysql命令行
 * 密码root
