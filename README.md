@@ -1,6 +1,6 @@
 ﻿## 环境准备
-安装好phpstudy环境，运行phpstudy自带的mysql，并导入数据库test.sql，如果test数据库已存在，请先删除
-数据库test.sql文件已上传到群文件
+* 安装好phpstudy环境，运行phpstudy自带的mysql，并导入数据库test.sql，如果test数据库已存在，请先删除
+* 数据库test.sql文件已上传到群文件
 
 
 ## phpstudy下载
